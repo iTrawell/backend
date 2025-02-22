@@ -30,9 +30,9 @@ Architecture and Flow
 | **Path**        | **APIs** |
 |-----------------|:--------:|
 | **Auth**        |    _5_   |
-| **User**        |    _6_   |
-| **Trips**       |    _7_   |
-| **Coordinates** |    _3_   |
-| **Common**      |    _3_   |
+| **User**        |    _8_   |
+| **Trips**       |    _10_   |
+| **Coordinates** |    _5_   |
+| **Common**      |    _4_   |
 | **Scheduler**   |    _2_   |
 | **Test**        |    _1_   |
